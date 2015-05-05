@@ -369,7 +369,7 @@ class Formbuilder
 
   @options:
     BUTTON_CLASS: 'fb-button'
-    HTTP_ENDPOINT: ''
+    HTTP_ENDPOINT: '/forms'
     HTTP_METHOD: 'POST'
     AUTOSAVE: true
     CLEAR_FIELD_CONFIRM: false
